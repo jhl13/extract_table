@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/luo/workspace/extract_table/build/src",
+  "command": "/usr/bin/g++-5    -isystem /usr/local/include -isystem /usr/local/include/opencv  -std=c++11 -O3 -g   -pthread -o CMakeFiles/extract_table_node.dir/main.cpp.o -c /home/luo/workspace/extract_table/src/main.cpp",
+  "file": "/home/luo/workspace/extract_table/src/main.cpp"
+}
+]
